@@ -8,12 +8,12 @@ The waiter can save the order in the smartphone and then this order will show up
 
 > Web Version
 
-<img width='350' src='./frontend/src/assets/video.gif' />
+<img  src='./frontend/src/assets/video.gif' />
 
 
 >App 
 
-<img width='150' src='./frontend/src/assets/app.gif' />
+<img width='350' src='./frontend/src/assets/app.gif' />
 
 
 ## How it works?
